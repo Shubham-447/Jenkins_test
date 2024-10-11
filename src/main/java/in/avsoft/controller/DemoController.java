@@ -11,6 +11,6 @@ public class DemoController {
 	
 	@GetMapping
 	public String save() {
-		return "Welcome Jave.....";
+		return "Welcome Java.....";
 	}
 }
