@@ -10,6 +10,6 @@ public class DemoController {
 	
 	@GetMapping
 	public String save() {
-		return "Welcome tomcat wit Java.....";
+		return "finish";
 	}
 }
