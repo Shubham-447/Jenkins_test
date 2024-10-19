@@ -10,6 +10,6 @@ public class DemoController {
 	
 	@GetMapping
 	public String save() {
-		return "Fuck You .....";
+		return "love You shubhu darling ";
 	}
 }
